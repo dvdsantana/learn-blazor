@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FirstClassLibrary</id>
+    <version>1.0.0</version>
+    <authors>FirstClassLibrary</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="8.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Projects\blazor\FirstClassLibrary\bin\Release\net8.0\FirstClassLibrary.dll" target="lib\net8.0\FirstClassLibrary.dll" />
+    <file src="F:\Projects\blazor\FirstClassLibrary\obj\Release\net8.0\scopedcss\projectbundle\FirstClassLibrary.bundle.scp.css" target="staticwebassets\FirstClassLibrary.bundle.scp.css" />
+    <file src="F:\Projects\blazor\FirstClassLibrary\wwwroot\background.png" target="staticwebassets\background.png" />
+    <file src="F:\Projects\blazor\FirstClassLibrary\wwwroot\exampleJsInterop.js" target="staticwebassets\exampleJsInterop.js" />
+    <file src="F:\Projects\blazor\FirstClassLibrary\obj\Release\net8.0\staticwebassets\msbuild.FirstClassLibrary.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="F:\Projects\blazor\FirstClassLibrary\obj\Release\net8.0\staticwebassets\msbuild.build.FirstClassLibrary.props" target="build\FirstClassLibrary.props" />
+    <file src="F:\Projects\blazor\FirstClassLibrary\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.FirstClassLibrary.props" target="buildMultiTargeting\FirstClassLibrary.props" />
+    <file src="F:\Projects\blazor\FirstClassLibrary\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.FirstClassLibrary.props" target="buildTransitive\FirstClassLibrary.props" />
+  </files>
+</package>

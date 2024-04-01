@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Projects\\blazor\\BlazzingPizzaSite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazzingPizzaSite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazzingPizzaSite.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Projects\\blazor\\BlazzingPizzaSite\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "F:\\Projects\\blazor\\BlazzingPizzaSite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\blazor\\BlazzingPizzaSite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\blazor\\BlazzingPizzaSite\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazzingPizzaSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazzingPizzaSite.props",
+      "PackagePath": "build\\BlazzingPizzaSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazzingPizzaSite.props",
+      "PackagePath": "buildMultiTargeting\\BlazzingPizzaSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazzingPizzaSite.props",
+      "PackagePath": "buildTransitive\\BlazzingPizzaSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
